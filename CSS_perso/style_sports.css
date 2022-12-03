@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  text-shadow: 3px 2px 3px black;
+}
+/**********************   Stylisation de la navbar    **********************/
+.navbar {
+  font-family: 'Source Code Pro', monospace;
+}
+
+/***************    Stylisation de la page de présentation****************/
+
+/*********************    Stylisation de la page avec mon fond d'écran    *********/
+#presentation {
+  background: url(../Images/bg-image.png);
+  background-size: cover;
+  background-position: center;
+  filter: contrast(75%);
+  height: 100vh;
+  overflow: auto;
+}
+
+/**************************   Ajustement de la taille et stylisation du bloc contenant les informations    ***********/
+#bloc {
+  position: absolute;
+  width: 95%;
+  margin-top: 70px;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 1.2em;
+  color: white;
+  backdrop-filter: blur(5px);
+  padding-right: 2%;
+  padding-right: 2%;
+}
+
+/***********    Ajustement et stylisation de l'article contenant les informations   **********************/
+#icon-sports {
+  text-align: center;
+  height: 15%;
+  margin-top: 3%;
+  margin-bottom: 2%;
+  font-family: 'Source Code Pro', monospace;
+}
+
+  #icon-sports span {
+    font-size: 400%;
+  }
+
+#intro-sports {
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+#contenu {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+  #contenu p {
+    padding-bottom: 2%;
+  }

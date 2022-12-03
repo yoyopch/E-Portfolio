@@ -1,0 +1,47 @@
+﻿#backgrnd-competences {
+  margin-top: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+.bloc {
+  width: 100%;
+}
+
+#scolaire-pro {
+  display: grid;
+}
+
+#scolaire {
+  transition: none;
+}
+
+  #scolaire:hover {
+    width: 100%;
+  }
+
+#pro {
+  transition: none;
+}
+
+  #pro:hover {
+    width: 100%;
+  }
+
+#proje
+#bloc-skills h3 {
+  padding-bottom: 5%;
+}
+
+#projets {
+  display: grid;
+}
+
+  #projets article {
+    width: 100%;
+  }
+
+#projet01, #projet02 {
+  display: grid;
+  width: 100%;
+}

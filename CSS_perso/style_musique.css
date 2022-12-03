@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  text-shadow: 3px 2px 3px black;
+}
+/***************************    Stylisation de la navbar    ***********************/
+.navbar {
+  font-family: 'Source Code Pro', monospace;
+}
+
+/*************************    Stylisation de la page avec mon fond d'écran    ************************/
+#global {
+  background: url(../Images/bg-image.png);
+  background-size: cover;
+  background-position: center;
+  filter: contrast(75%);
+  height: 100vh;
+  overflow: auto;
+}
+
+/**************   Ajustement de la taille et stylisation du bloc contenant les informations   ************/
+#bloc {
+  width: 95%;
+  margin-top: 70px;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  font-size: 1.2em;
+  font-family: 'Source Code Pro', monospace;
+  color: white;
+  backdrop-filter: blur(5px);
+  text-align: center;
+  display: grid;
+  padding-bottom: 5%;
+  padding-right: 2%;
+  padding-right: 2%;
+}
+
+#icon-music {
+  text-align: center;
+  height: 15%;
+  margin-top: 5%;
+  margin-bottom: 2%;
+  font-family: 'Source Code Pro', monospace;
+}
+
+#contenu {
+  text-align: center;
+}
+
+  #contenu p {
+    padding-bottom: 2%;
+  }
+
+  #contenu audio {
+    margin-bottom: 2%;
+  }
