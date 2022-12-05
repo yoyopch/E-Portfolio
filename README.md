@@ -1,19 +1,19 @@
 E-Portfolio de Yohann PECH    --        Groupe 106
 
 
-I. Présentation générale de mon E-Portfolio
+# **I. Présentation générale de mon E-Portfolio**
 
 
 Voici mon premier projet web en HTML5 et CSS3. A travers les différentes pages html, vous trouverez des informations me concernant, mon parcours scolaire, mes loisirs, et vous pourrez aussi me laisser un commentaire ou me contacter.
 
 
-II. Thème de mon E-Portfolio
+# **II. Thème de mon E-Portfolio**
 
 
 Je voulais réaliser un E-Portfolio original, et qui me représentait. C’est pourquoi j’ai décidé de mettre un même fond sur toutes les pages html, où l’on me voit en train de coder et de réfléchir sur mon IDE. Je trouve ce fond de site original et il me représente assez bien, on reste dans le thème de l’informatique.
 
 
-III. Particularités de mon E-Portfolio
+# **III. Particularités de mon E-Portfolio**
 
 
 La consigne était d’utiliser du Bootstrap. J’ai préféré l’utiliser pour la barre de navigation ainsi que pour le carrousel présent sur la page d’accueil. J’ai trouvé la barre de navigation intéressante, et qui se rapproche du thème de mon E-Portfolio. Le carrousel est une bonne idée pour me présenter et faire une 
