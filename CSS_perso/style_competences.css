@@ -12,7 +12,7 @@ body {
   font-family: 'Source Code Pro', monospace;
 }
 
-/*************************************    Stylisation de la page de compétences / expériences    *********************************/
+/*************************************    Stylisation de la page de compÃ©tences / expÃ©riences    *********************************/
 #global {
   background: url(../Images/bg-image.png);
   background-size: cover;
@@ -22,9 +22,8 @@ body {
   overflow: auto;
 }
 
-/************   Stylisation de la page avec mon fond d'écran    ******************/
+/************   Stylisation de la page avec mon fond d'Ã©cran    ******************/
 #backgrnd-competences {
-  position: absolute;
   width: 95%;
   margin-top: 5%;
   margin-right: 2.5%;
@@ -54,7 +53,7 @@ body {
   display: inline-flex;
 }
 
-/*****************  Ajustement et animation de la partie Expériences scolaires   **********************/
+/*****************  Ajustement et animation de la partie ExpÃ©riences scolaires   **********************/
 
 #scolaire {
   transition: 1s;
@@ -64,7 +63,7 @@ body {
     width: 150%;
   }
 
-/***************    Ajustement et animation de la partie Expériences professionnelles    ********************/
+/***************    Ajustement et animation de la partie ExpÃ©riences professionnelles    ********************/
 
 #pro {
   transition: 1s;
@@ -74,7 +73,7 @@ body {
     width: 150%;
   }
 
-/***************    Ajustement et animation de la partie compétences    ***********************/
+/***************    Ajustement et animation de la partie compÃ©tences    ***********************/
 #bloc-skills {
   width: 100%;
   margin-bottom: 5%;
@@ -94,7 +93,7 @@ body {
 
 
 
-/*******************************    Stylisation du tableau de compétences   ***********************/
+/*******************************    Stylisation du tableau de compÃ©tences   ***********************/
 table tr, table th, table td {
   border: 1px solid white;
   text-align: center;
