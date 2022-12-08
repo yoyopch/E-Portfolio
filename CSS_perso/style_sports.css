@@ -10,9 +10,9 @@ body {
   font-family: 'Source Code Pro', monospace;
 }
 
-/***************    Stylisation de la page de présentation****************/
+/***************    Stylisation de la page de prÃ©sentation****************/
 
-/*********************    Stylisation de la page avec mon fond d'écran    *********/
+/*********************    Stylisation de la page avec mon fond d'Ã©cran    *********/
 #presentation {
   background: url(../Images/bg-image.png);
   background-size: cover;
@@ -24,7 +24,6 @@ body {
 
 /**************************   Ajustement de la taille et stylisation du bloc contenant les informations    ***********/
 #bloc {
-  position: absolute;
   width: 95%;
   margin-top: 70px;
   margin-left: 2.5%;
