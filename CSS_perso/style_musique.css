@@ -10,7 +10,7 @@ body {
   font-family: 'Source Code Pro', monospace;
 }
 
-/*************************    Stylisation de la page avec mon fond d'écran    ************************/
+/*************************    Stylisation de la page avec mon fond d'Ã©cran    ************************/
 #global {
   background: url(../Images/bg-image.png);
   background-size: cover;
@@ -30,6 +30,7 @@ body {
   font-family: 'Source Code Pro', monospace;
   color: white;
   backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
   text-align: center;
   display: grid;
   padding-bottom: 5%;
