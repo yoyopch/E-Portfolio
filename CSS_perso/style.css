@@ -37,7 +37,7 @@ body {
   margin-bottom: 10%;
 }
 
-/****************   Stylisation de la apge avec mon fond d'écran    *************/
+/****************   Stylisation de la apge avec mon fond d'Ã©cran    *************/
 #global {
   background: url(../Images/bg-image.png);
   background-size: cover;
@@ -54,4 +54,5 @@ body {
 
 #moi {
   backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
 }
